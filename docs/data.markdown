@@ -4,7 +4,7 @@ title: Data
 permalink: /data/
 ---
 
-##Here you'll find all data sets we use in the labs.
+## Here you'll find all data sets we use in the labs.
 
 
 [Lab 1](data/lupubrands.csv){: .btn }
