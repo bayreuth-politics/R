@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-footer_content: "Copyright &copy; 2022 Ria Ivandic, Felipe Torres Raposo & Kenneth Stiller."
+footer_content: "Copyright &copy; 2022 Felipe Torres Raposo & Kenneth Stiller."
 
 
 
