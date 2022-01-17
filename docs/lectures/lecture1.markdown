@@ -12,4 +12,4 @@ nav_order: 1
 
 Test
 
-<embed src="lecture1.pdf" width="800" height="650" type="application/pdf">
+<embed src="/lectures/lecture1.pdf" width="800" height="650" type="application/pdf">
