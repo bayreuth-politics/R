@@ -6,6 +6,8 @@ parent: Lectures
 nav_order: 1
 ---
 
+Test
+
 ## Week 1: Causality and Potential Outcomes Framework
 
 
