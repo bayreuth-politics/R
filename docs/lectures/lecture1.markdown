@@ -1,3 +1,10 @@
+---
+layout: page
+title: Lecture 1
+permalink: /lecture/lecture1/
+parent: Lectures
+nav_order: 1
+---
 
 ## Week 1: Causality and Potential Outcomes Framework
 
