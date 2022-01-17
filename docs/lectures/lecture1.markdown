@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Lecture 1
 permalink: /lectures/lecture1/
 parent: Lectures
