@@ -10,6 +10,4 @@ nav_order: 1
 ## Week 1: Causality and Potential Outcomes Framework
 
 
-Test
-
-<embed src="lectures/lecture1.pdf" width="800" height="650" type="application/pdf">
+<embed src="Lectures/lecture1.pdf" width="800" height="650" type="application/pdf">
