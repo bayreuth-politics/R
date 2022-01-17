@@ -6,4 +6,4 @@ has_children: true
 nav_order: 2
 ---
 
-Here, you'll be finding information on the weekly labs.
+Here, you find the code we work with during the the weekly labs.
