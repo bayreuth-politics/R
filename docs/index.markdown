@@ -33,5 +33,5 @@ Trinity Term
 
 ## Syllabus
 
-<embed src="ci_HT22_syllabus.pdf" width="900" height="375" 
+<embed src="ci_HT22_syllabus.pdf" width="750" height="375" 
  type="application/pdf">
