@@ -31,5 +31,7 @@ Group 2: Friday 12:15pm - Common Room taught by Ken Stiller (kenneth.stiller@pol
 Trinity Term
 
 
-<embed src="ci_HT22_syllabus.pdf" width="500" height="375" 
+## Syllabus
+
+<embed src="ci_HT22_syllabus.pdf" width="900" height="375" 
  type="application/pdf">
