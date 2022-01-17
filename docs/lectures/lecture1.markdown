@@ -10,4 +10,4 @@ nav_order: 1
 ## Week 1: Causality and Potential Outcomes Framework
 
 
-<embed src="Lectures/lecture1.pdf" width="800" height="650" type="application/pdf">
+<embed src="ci_HT22_syllabus.pdf" width="800" height="650" type="application/pdf">
