@@ -29,3 +29,7 @@ Group 2: Friday 12:15pm - Common Room taught by Ken Stiller (kenneth.stiller@pol
 
 • Take-home exam (40% of final mark): Distributed by Friday of Week 8, due noon on Friday of week 0 of
 Trinity Term
+
+
+<embed src="ci_HT22_syllabus.pdf" width="500" height="375" 
+ type="application/pdf">
