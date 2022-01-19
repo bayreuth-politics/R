@@ -10,7 +10,7 @@ This is the page of the Causal Inference course in Hilary Term 2022 at the DPIR 
 
 ## Lectures
 
-Mondays 
+Mondays 12:45pm - Common Room taught by Ria Ivandic (ria.ivandic@politics.ox.ac.uk)
 
 ## Labs
 
