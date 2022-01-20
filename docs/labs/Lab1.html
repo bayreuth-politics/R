@@ -6,7 +6,6 @@ parent: Labs
 nav_order: 1
 ---
 
-
 <!DOCTYPE html>
 
 <html>
@@ -383,33 +382,31 @@ pre code {
 <h1>Recap</h1>
 <div id="causality" class="section level2">
 <h2>Causality</h2>
-<p>This <strong>week lecture</strong> discussed introduced the concepts of causality, potential outcomes framework. We reviewed the concept of causality which refers to &quot;the relationship between events one set of events (the effects) is a direct consequence of another set of events (the causes).</p>
-<p>We also discussed the concept of the logic counterfactuals: <strong>If X/ha/had not been the case, Y would/would not have happened.</strong> This implies that in order to make causal claims, our main task is to construct counterfactuals.</p>
-<p>Given that we are interested in the effect of X on Y, we can use regression as an statistical tool to characterise the relationship between two variables or more variables. We can formalise OLS as follows:</p>
-<p><span class="math display">\[Y_i = \beta_0 + \beta_1 X_i + \mu_i\]</span> We also discussed about <strong>Omitted variable bias</strong> even though we control for additional covariates, there are still potential unobservable confounders that we are not able to control.</p>
+<p>This <strong>week lecture</strong> introduced the concepts of causality and the potential outcomes framework. We reviewed the concept of causality which refers to &quot;the relationship between events: one set of events (the effects) is a direct consequence of another set of events (the causes).</p>
+<p>We also discussed the concept of the logic counterfactuals: <strong>If X had/had not been the case, Y would/would not have happened.</strong> This implies that in order to make causal claims, our main task is to construct counterfactuals.</p>
+<p>Given that we are interested in the effect of X on Y, we can use regression as an statistical tool to characterise the relationship between two or more variables. We can formalise OLS as follows:</p>
+<p><span class="math display">\[Y_i = \beta_0 + \beta_1 X_i + \mu_i\]</span> We also discussed <strong>Omitted variable bias</strong> that appears despite controlling for additional covariates: There are still potential unobservable confounders that we are not able to consider.</p>
 </div>
 <div id="potential-outcomes" class="section level2">
 <h2>Potential Outcomes</h2>
-<p>We also discussed the Potential Outcomes framework. In particular, and in particular we discussed <em>The Fundamental Problem of Causal Inference</em> where it’s impossible to observe outcomes of different treatment status for the same unit <span class="math inline">\(i\)</span>.</p>
+<p>We also discussed the Potential Outcomes Framework. In particular, we discussed <em>The Fundamental Problem of Causal Inference</em>, according to which it’s impossible to observe outcomes of different treatment status for the same unit <span class="math inline">\(i\)</span>.</p>
 <p>We also learned about different estimands such as ATE and ATT.</p>
-<p>We also went over the issue of <strong>selection bias</strong> that corresponds to pre-treatment differences in the outcome of difference between treated and control groups.</p>
-<p>We also learned that with random assignment we can circumvent the issue of <strong>selection bias</strong>. In theory, on expectation, units in the treatment and control groups are similar in on all (un)observed traits and only differ in terms of term treatment assignment <span class="math inline">\(D_i\)</span>.</p>
+<p>The lecture covered the issue of <strong>selection bias</strong> that corresponds to pre-treatment differences in the outcome of difference between treated and control groups.</p>
+<p>We also learned that with random assignment we can circumvent the issue of <strong>selection bias</strong>. In theory - or expectation - units in the treatment and control groups are similar in on all (un)observed traits and only differ in terms of term treatment assignment <span class="math inline">\(D_i\)</span> if randomly allocated.</p>
 <p>Finally, we talked about the key assumptions for identification:</p>
 <ul>
 <li>SUTVA</li>
 <li>Unconfoundedness</li>
 </ul>
-<p>In this <strong>seminar</strong>, we will cover the following topics:</p>
-<ol style="list-style-type: decimal">
-<li>Use of the <code>lm()</code> function to retrieve the ATE</li>
-<li>Use <code>lm()</code> including covariates to retrieve the ATE</li>
-<li>Perform two sample t-test using the <code>t.test()</code> and <code>chi.square()</code> functions to compare treated versus control groups.</li>
-<li>Conduct a Kolmogorov–Smirnov test using the <code>ks.test()</code> to compare the cumulative distribution of a continuous variable between treated vs control group.</li>
-<li>Check for balance using <code>multin()</code> for cases that we have multiple treatments and logit <code>glm()</code> and <code>lm()</code> when we have two treatment conditions (treatment and control)</li>
-</ol>
+<p><br />
+In this <strong>seminar</strong>, we will cover the following topics around:<br />
+<em>Identifying the ATE</em><br />
+1. Use of the <code>lm()</code> function to retrieve the ATE 2. Use <code>lm()</code> including covariates to retrieve the ATE<br />
+<em>Randomisation Checks</em><br />
+3. Perform two sample t-test using the <code>t.test()</code> and <code>chi.square()</code> functions to compare treated versus control groups. 4. Conduct a Kolmogorov–Smirnov test using the <code>ks.test()</code> to compare the cumulative distribution of a continuous variable between treated vs control group. 5. Check for balance using <code>multin()</code> for cases that we have multiple treatments and logit <code>glm()</code> and <code>lm()</code> when we have two treatment conditions (treatment and control)</p>
 <p><strong>Before starting this seminar</strong></p>
 <ol style="list-style-type: decimal">
-<li>Create a folder called “lab1”</li>
+<li>Create a folder called “lab1”.</li>
 <li>Download the data (you can use this button or the one at the top, or read csv files directly from github):<br />
 </li>
 </ol>
@@ -427,7 +424,7 @@ pre code {
 <h1>Seminar Overview</h1>
 <div id="party-brands." class="section level2">
 <h2>Party Brands.</h2>
-<p>Today we will be working with data from Noam Lupu’s work on <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2012.00615.x"></a> in Argentina.</p>
+<p>Today we will be working with data from Noam Lupu’s work on <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2012.00615.x"><strong>Party Brands and Partisanship</strong></a> in Argentina.</p>
 <p>What we need to know about the paper:</p>
 <ul>
 <li>Two main theories on the dynamics of partisanship:
@@ -436,14 +433,13 @@ pre code {
 <li>Partisanship as a rational maximisation expected utility (unstable)</li>
 </ul></li>
 </ul>
-<p>What is Lupu trying to empirically test on this paper?</p>
+<p>What is Lupu trying to empirically test in this paper?</p>
 <ul>
-<li>Testable implication: When parties converge, their brands are diluted, thus, it become more difficult for voters to distinguish parties from one another and subsequently party attachments are weaken.</li>
+<li>Testable implication: When parties converge, their brands are diluted, thus, it becomes more difficult for voters to distinguish parties from one another and subsequently party attachments are weaken.</li>
 </ul>
 </div>
-</div>
-<div id="details-of-the-experiment" class="section level1">
-<h1>Details of the experiment</h1>
+<div id="details-of-the-experiment" class="section level2">
+<h2>Details of the experiment</h2>
 <ul>
 <li>A survey experiment</li>
 <li>Manipulation of information about political parties that suggest either <em>diverge</em> or <em>converge</em> among the parties</li>
@@ -521,12 +517,12 @@ pre code {
 </tbody>
 </table>
 <p>Now let’s load the data. There are two ways to do this:</p>
-<p>You can upload brands dataset from your laptop using the <code>read.csv()</code> function. Remember to load the <code>readr</code> package. If you stored your data in the same directory that set your working directory, you only need to write the name of the dataset, plus the extension (.csv).</p>
+<p>You can load the brands dataset from your laptop using the <code>read.csv()</code> function. Remember to load the <code>readr</code> package. If you stored your data in the same directory that set your working directory, you only need to write the name of the dataset, plus the extension (.csv).</p>
 <pre class="r"><code># setwd(&quot;C:/Desktop/Causal Inference/2022/Lab1&quot;)
 # 
 # library(readr)
 # brands &lt;- read_csv(&quot;brands.csv&quot;) # loading your data from your laptop</code></pre>
-<p>Or you can load the data from the course’ website using the <code>read.csv()</code> function. Write the following url: <a href="https://raw.githubusercontent.com/dpir-ci/CI22/gh-pages/docs/data/lupubrands.csv" class="uri">https://raw.githubusercontent.com/dpir-ci/CI22/gh-pages/docs/data/lupubrands.csv</a> inside the <code>read.csv()</code> function</p>
+<p>Or you can load the data from the course website using the <code>read.csv()</code> function. Write the following url: <a href="https://raw.githubusercontent.com/dpir-ci/CI22/gh-pages/docs/data/lupubrands.csv" class="uri">https://raw.githubusercontent.com/dpir-ci/CI22/gh-pages/docs/data/lupubrands.csv</a> inside the <code>read.csv()</code> function</p>
 <pre class="r"><code>brands=read.csv(&quot;https://raw.githubusercontent.com/dpir-ci/CI22/gh-pages/docs/data/lupubrands.csv&quot;)
 # updating the file from the course website. </code></pre>
 <p>Let’s create a copy of the data frame called “brands_tidy”, so we can work with a separate data frame using r code in a tidy format:</p>
@@ -581,7 +577,7 @@ $ mandate    &lt;int&gt; 2, 5, 4, 5, 2, 4, 1, 4, 2, 4, 1, 1, 1, 4, 3, 1, 3, 2, 1
 <pre><code>
   1   2   3   4 
 301 295 302 301 </code></pre>
-<p>This variable is recoded into the dummies <code>frm2=1</code> which takes the value 1 if the respondent received the platform information treatment, <code>frm3=1</code> for alliance switching and <code>frm4=1</code> for the full text. Note the omitted dummy represents the control group.</p>
+<p>This variable has been recoded into dummies (such as <code>frm2=1</code>) which takes the value 1 if the respondent received the platform information treatment, <code>frm3=1</code> for alliance switching and <code>frm4=1</code> for the full text. Note the omitted dummy represents the control group.</p>
 <p>Rather than modifying the <code>fomulario</code> variable lets’ create a new variable called <code>treat</code> where the control group is equal to 0 rather than 1.</p>
 <p>Go ahead and create a new variable and called it <code>treat</code>. In order to create this new variable use the <code>formulario</code> variable and subtract <code>1</code> from that variable. You can use the assignment operator <code>&lt;-</code> to create new variables. If you use tidy, you can create this variable using the <code>mutate()</code> function. In tidy, we need to use what is called an pipeline operator <code>%&gt;%</code> that we need to include before the dataframe that we want to modify.</p>
 <details>
@@ -592,7 +588,7 @@ $ mandate    &lt;int&gt; 2, 5, 4, 5, 2, 4, 1, 4, 2, 4, 1, 1, 1, 4, 3, 1, 3, 2, 1
 brands_tidy &lt;- brands_tidy %&gt;%
   mutate(treat = formulario - 1) </code></pre>
 </details>
-<p><br /><br /> Did we define the treatment variable correctly? Let’s use the <code>head()</code> function to inspect our data, but rather than showing all the variables, let’s subset our data frame to the assignment variables: <code>formulario</code> and<code>treat</code>. We can do this by subsetting by calling the dataframe, plus the $ sign, followed by the variable of interest. We then can then combine these two vectors (variables) by using the <code>cbind()</code> function that takes the sequence of vector and combine them by columns</p>
+<p><br /><br /> Did we define the treatment variable correctly? Let’s use the <code>head()</code> function to inspect our data, but rather than showing all the variables, let’s subset our data frame to the assignment variables: <code>formulario</code> and<code>treat</code>. We can do this by subsetting by calling the dataframe, plus the <em>$</em> sign, followed by the variable of interest. We then can then combine these two vectors (variables) by using the <code>cbind()</code> function that takes the sequence of vectors and combines them by columns.</p>
 <pre class="r"><code>head(cbind(brands$formulario, brands$treat))</code></pre>
 <pre><code>     [,1] [,2]
 [1,]    3    2
@@ -618,7 +614,7 @@ brands_tidy &lt;- brands_tidy %&gt;%
 <hr />
 <div id="ols-estimations" class="section level3">
 <h3>OLS Estimations</h3>
-<p>Lupu is interested in the effect of the three treatment conditions on partisanship. Among the two outcomes, <code>pid</code> (whether the individual identifies with a party) and <code>pidstr</code> (a 10 point scale representing the strength of the respondent’s party identification), we will focus below mainly on the latter.</p>
+<p>Lupu is interested in the effect of the three treatment conditions on partisanship. Among the two outcomes, <code>pid</code> (whether the individual identifies with a party) and <code>pidstr</code> (a 10 point scale representing the strength of the respondent’s party identification), we will focus on the latter.</p>
 <p><strong>Exercise 1: Regress the strength of respondents’ party identity on the treatment</strong></p>
 <details>
 <p><summary><em>Reveal Answer</em></summary></p>
@@ -716,7 +712,7 @@ tidy(lin_fit)</code></pre>
 </details>
 <p><br />
 </p>
-<p><strong>Exercise 3a - Create a new variable called <code>treat</code></strong></p>
+<p><strong>Exercise 3a - Create a new variable called <code>treat2</code></strong></p>
 We may want to change the reference category, for example, we may want to set the <em>Platform</em> treatment condition as the baseline category and compare the rest of the treatment effects to this condition. For that we can use the <code>relevel()</code> function. Let’s set <em>Platform</em> as the reference category, but first, create a new variable called <code>treat2</code>, which is the same as variable <code>treat</code>. We will create this new variable just to not affect the results of the rest of the lab:<br />
 
 <details>
@@ -729,8 +725,12 @@ brands &lt;- brands %&gt;%
   mutate(treat2 = treat)</code></pre>
 </details>
 <p><br />
-Now that you have created the <code>treat2</code> variable, we can change the levels of this categorical variable using the <code>relevel()</code> function. You can also create a new variable and change the Here is the syntax of these functions:</p>
-<p>If you create a new variable using the <code>factor()</code> function, the first level in the vector will be reference level. Now using any of the functions, change the reference category to “Platform” and run the same regression that you ran in Question 3a. Provide an interpretation of the coefficients for each treatment condition. Are these estimates tell the same story as before?</p>
+Now that you have created the <code>treat2</code> variable, we can change the levels of this categorical variable using the <code>relevel()</code> function. You can also create a new variable and change the reference category. Here is the syntax of these functions:</p>
+<pre class="r"><code>#dataframe &lt;- within(dataframe, variable &lt;- relevel, ref = &quot;new reference category&quot;)
+
+## set the levels explicitly: 
+#dataframe$variable  &lt;- factor(dataframe$variable, levels = c(&quot;Level1&quot;, &quot;Level2&quot;, &quot;Level3&quot;...&quot;Level4&quot;))</code></pre>
+<p>If you create a new variable using the <code>factor()</code> function, the first level in the vector will be the reference level. Now using any of the functions, change the reference category to “Platform” and run the same regression that you ran in Exercise 3a. Provide an interpretation of the coefficients for each treatment condition. Do these estimates tell the same story as before?</p>
 <p><strong>Exercise 3b: Set the <em>Platform</em> treatment as the reference category</strong></p>
 <br />
 
@@ -762,9 +762,10 @@ F-statistic: 8.395 on 3 and 393 DF,  p-value: 2.021e-05</code></pre>
 We can see now that our estimated coefficients of our new treatment variable have changed given that now the reference category is <em>Platform</em>. The beta coefficient of the control condition means that, on average, those that were assigned to the <em>Control</em> condition report lower levels of partisanship’s strength <code>-0.66</code> relative to those in the <em>Platform</em> condition. Is this story consistent with the regression results when we used the <code>treat</code> variable? Yes, it is ! If you go back, you will see that the different in means between partisanship between the <em>Control</em> condition and the <em>Platform</em> was <code>0.66</code>.
 </details>
 <p><br />
-The OLS regression results look like mere mean differences. Let’s see if that is true. Why should it (not) be true?<br />
+As we have seen, the OLS regression results look like mere differences in means. Let’s see if that is true. Why should it (not) be true?</p>
+<p><br />
 Let’s “manually” calculate the ATE for the <em>Platform</em> treatment using the <code>mean()</code> function. The syntax of this function is as follows <code>mean(x, na.rm = F)</code> where <code>x</code> is the variable. The <code>na.rm</code> is an argument where you can indicate whether you want to exclude missing values. If you set <code>na.rm = T</code> or <code>na.rm = TRUE</code> you will be excluding all observations with missing values.</p>
-<p>But first, we need subset our data by each treatment condition. We can do this by using squared brackets <code>[ , ]</code>. The first argument inside of the square brackets you can sets the logical condition that selects what observations are included in your subset data. The second argument right after the comma sets what variables you want to include in your subsetted data frame. For example, if you would like to subset the data to only observations where the <code>treat</code> variable is equal to “Full” and retrieve only the partisanship strength variable <code>pidstr</code>, the code would be the following:</p>
+<p>But first, we need to subset our data by each treatment condition. We can do this by using squared brackets <code>[ , ]</code>. The first argument inside of the square brackets sets the logical condition that selects what observations are included in your subset data. The second argument right after the comma sets what variables you want to include in your subsetted data frame. For example, if you would like to subset the data to only observations where the <code>treat</code> variable is equal to “Full” and retrieve only the partisanship strength variable <code>pidstr</code>, the code would be the following:</p>
 <pre class="r"><code>pid.control=mean(brands$pidstr[brands$treat==&quot;Control&quot;], na.rm=T)
 pid.platform=mean(brands$pidstr[brands$treat==&quot;Platform&quot;],na.rm=T)
 pid.switch=mean(brands$pidstr[brands$treat==&quot;Switch&quot;],na.rm=T)
@@ -804,7 +805,8 @@ ate.platform</code></pre>
 <pre class="r"><code>ate.full</code></pre>
 <pre><code>  conditional_mean
 1      -0.09991329</code></pre>
-<hr />
+<p><br />
+</p>
 <strong>Exercise 4: The ATEs we calculated just now are identical to the OLS slopes we calculated before. So, why do OLS?</strong><br />
 
 <details>
@@ -812,6 +814,10 @@ ate.platform</code></pre>
 </details>
 <p><br />
 Still, can you think of other ways to estimate statistical uncertainty without using OLS?</p>
+<hr />
+</div>
+<div id="covariates" class="section level3">
+<h3>Covariates</h3>
 <p>We can obtain more precise estimates of the treatment effects by including relevant covariates in our model. Let’s first add the <code>age</code> covariate.</p>
 <pre class="r"><code>model &lt;- lm(pidstr~factor(treat)+age, data=brands)
 
@@ -838,7 +844,7 @@ Residual standard error: 2.213 on 390 degrees of freedom
   (804 observations deleted due to missingness)
 Multiple R-squared:  0.07763,   Adjusted R-squared:  0.06817 
 F-statistic: 8.206 on 4 and 390 DF,  p-value: 2.312e-06</code></pre>
-<p><strong>Exercise 5: include the following additional covariates into the model <code>age</code>, <code>income</code>, <code>educgrp</code> and <code>info. Provide an interpretation of the coefficients for all treatments (</code>treat<code>). Use the</code>summary()` function to report your results. Are the estimated treatment effects statistically significant for all treatment arms? </strong></p>
+<p><strong>Exercise 5: include the following additional covariates into the model <code>age</code>, <code>income</code>, <code>educgrp</code> and <code>info</code>. Provide an interpretation of the coefficients for all treatments (<code>treat</code>). Use the <code>summary()</code> function to report your results. Are the estimated treatment effects statistically significant for all treatment groups? </strong></p>
 <br />
 
 <details>
@@ -870,10 +876,11 @@ Residual standard error: 2.159 on 295 degrees of freedom
   (896 observations deleted due to missingness)
 Multiple R-squared:  0.139, Adjusted R-squared:  0.1186 
 F-statistic: 6.803 on 7 and 295 DF,  p-value: 1.7e-07</code></pre>
-<p>Once we include revelant covariates we should expect to improve the precision of our estimates. We found, for example, that for the <em>Platform</em> and <em>Switch</em> treatment the magnitude of the beta coefficients increase. Thus, the treatment effects are much larger that we expected, once we introduce controls.</p>
+Once we include revelant covariates we should expect to improve the precision of our estimates. We found, for example, that for the <em>Platform</em> and <em>Switch</em> treatment the magnitude of the beta coefficients increases. Thus, the treatment effects are much larger than we expected, once we introduce controls.
 </details>
 <p><br />
-<strong>Are we making a fair comparison when we compare our simple model to the model with covariates?</strong> Well no, given that we are using different observations in each estimation. We can use the <code>nobs()</code> function to obtain the number of observations used in a object and see the numbers of observations that we are using in each regression. Run the simple regression model again, store it in a object and then use the <code>nobs()</code> function to obtain the number of observations used in that regression.</p>
+<strong>Are we making a fair comparison when we compare our simple model to the model with covariates?</strong><br />
+Well no, given that we are using different observations in each estimation. We can use the <code>nobs()</code> function to obtain the number of observations used in a object and see the numbers of observations that we are using in each regression. Run the simple regression model again, store it in a object and then use the <code>nobs()</code> function to obtain the number of observations used in that regression.</p>
 <pre class="r"><code>#Re-estimate the main model
 atemod=lm(pidstr~factor(treat), data=brands)
 summary(atemod)</code></pre>
@@ -1508,6 +1515,7 @@ Number of Fisher Scoring iterations: 4</code></pre>
 </details>
 <p><br />
 </p>
+</div>
 </div>
 </div>
 
