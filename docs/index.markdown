@@ -17,6 +17,7 @@ Mondays 12:45pm - Common Room taught by Ria Ivandic (ria.ivandic@politics.ox.ac.
 Group 1: Thursday 12pm - Skills Lab taught by Felipe Torres (felipe.torres@politics.ox.ac.uk)
 
 Group 2: Friday 12:15pm - Common Room taught by Ken Stiller (kenneth.stiller@politics.ox.ac.uk)
+          - Office Hours: Tuesday 4pm-6pm in Room 134, DPIR
 
 
 ## Assignments
