@@ -9,8 +9,6 @@ nav_order: 4
  
 There are great R Tutorials on [RStudio.Cloud](https://rstudio.cloud/learn/primers/). Also have a look at their [Cheat Sheets](https://rstudio.cloud/learn/cheat-sheets), which come in very handy. You might be particularyl interested in the [R Markdown Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown-2.0.pdf).
  
- 
- 
  ### R Markdown Example
 
 Here you can find an example of R Mardkdown code and the corresponding output:
