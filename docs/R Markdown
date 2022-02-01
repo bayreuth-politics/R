@@ -2,12 +2,10 @@
 layout: page
 title: R Markdown
 permalink: /rmarkdown/
-nav_order: 3
+nav_order: 4
 ---
 
-#Data from Noam Lupu's work on [Party Brands and Partisanship](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2012.00615.x):
-
-
+### R Markdown Example
 
 [R Markdown Code](/R/RMD_example_code.rmd){: .btn .btn-green }
 [PDF Output](/R/RMD_example.pdf){: .btn .btn-green }
