@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab 4: PAPER
+title: Lab 4 PAPER
 permalink: /labs/lab4/
 parent: Labs
 nav_order: 4
