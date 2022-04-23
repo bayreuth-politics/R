@@ -2,7 +2,7 @@
 layout: page
 title: Lectures
 permalink: /lectures/
-has_children: no
+has_children: false
 nav_order: 2
 ---
 
