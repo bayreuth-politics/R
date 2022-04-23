@@ -11,15 +11,15 @@ This is the page of the Causal Inference course in Spring Term 2022 at the Unive
 
 ## Lectures
 
-**Monday:** 12:00pm - 2:00pm - Common Room
+**Monday:** 12pm - 2pm - S 6 (GWIIU1U1.09)
 
 ## Labs
 
-**Wednesday:** 2pm - 4pm -  Skills Lab 
+**Thursday:** 12pm - 2pm - 	S 72 (NWIIEG2.2.00.281) 
 
-### Drop-In Sessions
+## Drop-In Sessions
 
-**Thursday:** tba
+**Tuesday:** tba
 
 
 ## Assignments
