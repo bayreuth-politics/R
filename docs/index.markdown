@@ -24,13 +24,13 @@ This is the page of the Causal Inference course in Spring Term 2022 at the Unive
 
 ## Assessments
 
-• Assignment 1: Distributed week 2, due noon on **Friday** of Week 4
+• Assignment 1: Distributed week 2, due noon on **Friday** of Week 5
 
-• Assignment 2: Distributed week 4, due noon on **Friday** of Week 7
+• Assignment 2: Distributed week 5, due noon on **Friday** of Week 8
 
-• Assignment 3: Distributed week 7, due noon on **Friday** of Week 10
+• Assignment 3: Distributed week 8, due noon on **Friday** of Week 11
 
-• Take-home exam (40% of final mark): Distributed by Friday of Week 10, due noon on 1 August 2022.
+• Take-home exam (40% of final mark): Distributed by Friday of Week 11, due noon on 1 August 2022.
 
 
 ## Syllabus
