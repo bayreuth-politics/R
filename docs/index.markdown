@@ -6,7 +6,7 @@ nav_order: 1
 
 
 
-This is the page of the Causal Inference course in Spring Term 2022 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@politics.ox.ac.uk)*.
+This is the page of the Causal Inference course in Spring Term 2022 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@politics.ox.ac.uk)*. The course builds upon a methodology class taught at Oxford.
 
 
 ## Lectures
