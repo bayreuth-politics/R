@@ -36,5 +36,5 @@ This is the page of the Causal Inference course in Spring Term 2022 at the Unive
 ## Syllabus
 
 
-<embed src="ci_HT22_syllabus.pdf" width="800" height="650" 
+<embed src="CI_22_Syllabus___Bayreuth.pdf" width="800" height="650" 
  type="application/pdf">
