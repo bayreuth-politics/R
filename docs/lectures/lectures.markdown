@@ -10,3 +10,5 @@ nav_order: 2
 
 
 [Lecture 2](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/lectures/CI_22_Slides_Bayreuth_Week2_short.pdf){: .btn .btn-blue .mr-5}
+
+[Lecture 3](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/lectures/CI_22_Slides_Bayreuth_Week3.pdf){: .btn .btn-blue .mr-5}
