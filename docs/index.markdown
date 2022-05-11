@@ -19,7 +19,7 @@ This is the page of the Causal Inference course in Spring Term 2022 at the Unive
 
 ## Drop-In Sessions
 
-**Wednesday:** 4pm - 5 pm - This week: U1.26 (GW II), venue for following weeks tba. 
+**Wednesday:** 4pm - 5 pm - This week: U1.26 (GW II)
 
 
 ## Assessments
