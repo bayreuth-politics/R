@@ -19,7 +19,7 @@ This is the page of the Causal Inference course in Spring Term 2022 at the Unive
 
 ## Drop-In Sessions
 
-**Wednesday:** 4pm - 5 pm - This week: (Join Teams Meeting here)[https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2I4ODRlNzEtNzE2ZC00OTZlLThjMDItZDM4ZmFiZjI3MmE3%40thread.v2/0?context=%7b%22Tid%22%3a%22cc95de1b-97f5-4f93-b4ba-fe68b852cf91%22%2c%22Oid%22%3a%2292e8e132-902e-42da-9e86-1e4241143764%22%7d]
+**Wednesday:** 4pm - 5 pm - This week: [Join Teams Meeting here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2I4ODRlNzEtNzE2ZC00OTZlLThjMDItZDM4ZmFiZjI3MmE3%40thread.v2/0?context=%7b%22Tid%22%3a%22cc95de1b-97f5-4f93-b4ba-fe68b852cf91%22%2c%22Oid%22%3a%2292e8e132-902e-42da-9e86-1e4241143764%22%7d)
 
 
 
