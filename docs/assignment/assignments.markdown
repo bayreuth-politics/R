@@ -20,5 +20,13 @@ nav_order: 5
 [Assignment 2 - Data](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/assignment/Vietnam_matching.dta){: .btn .btn-blue }
 
 
+## Assignment 3
+<br>
+
+[Assignment 3](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/assignment/CI_22_Bayreuth_Assignment_3.pdf){: .btn .btn-green }
+[Assignment 3 - Data Ex 1](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/assignment/AJR.dta){: .btn .btn-blue }
+[Assignment 3 - Data Ex 2](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/assignment/Broockman2009.dta){: .btn .btn-blue }
+
+
 
 
