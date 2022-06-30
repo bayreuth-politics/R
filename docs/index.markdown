@@ -20,6 +20,10 @@ This is the page of the Causal Inference course in Spring Term 2022 at the Unive
 
 **Wednesday:** 4pm - 5 pm - U1.26 (GWII)
 
+## Evaluation
+
+Link: https://eval.uni-bayreuth.de/unizensus/sl/A16gR2mz9Uy5
+
 
 
 ## Assessments
