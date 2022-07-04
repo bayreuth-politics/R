@@ -8,10 +8,13 @@ nav_order: 1
 
 This is the page of the Causal Inference course in Spring Term 2022 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@politics.ox.ac.uk)*. The course builds upon a methodology class taught at Oxford.
 
+## Evaluation
+
+[https://eval.uni-bayreuth.de/unizensus/sl/A16gR2mz9Uy5](https://eval.uni-bayreuth.de/unizensus/sl/A16gR2mz9Uy5)
 
 ## Lectures
 
-**Monday:** 12pm - 2pm - S 6 (GWIIU1U1.09)
+**Monday:** 12pm - 2pm - S 6 (GWIIU1U1.09). **THIS WEEK ON TEAMS: https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yjg1YjU0M2EtNDliNi00MzlmLWE5NjItMjk1MTQyN2E3ZDI1%40thread.v2/0?context=%7b%22Tid%22%3a%22cc95de1b-97f5-4f93-b4ba-fe68b852cf91%22%2c%22Oid%22%3a%2292e8e132-902e-42da-9e86-1e4241143764%22%7d**
 
 ## Labs
 
