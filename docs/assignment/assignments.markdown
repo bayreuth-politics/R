@@ -8,8 +8,8 @@ nav_order: 5
 ## Take-Home Exam
 <br>
 
-[Assignment 2](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/assignment/CI_22_Bayreuth_THE.pdf){: .btn .btn-green }
-[Assignment 2 - Data](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/assignment/france.dta){: .btn .btn-blue }
+[Take-Home Exam](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/assignment/CI_22_Bayreuth_THE.pdf){: .btn .btn-green }
+[Take-Home Exam - Data](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/assignment/france.dta){: .btn .btn-blue }
 
 ## Assignment 1
 <br>
