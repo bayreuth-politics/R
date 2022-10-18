@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Causal Inference Spring 2022
+title: Data Analysis in R Fall 2022
 subtitle: University of Bayreuth
 email: kenneth.stiller@politics.ox.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Here you find course materials, notes and data for the Causal Inference course at the University of Bayreuth in Spring/Summer Term 2022.
+  Here you find course materials, notes and data for the Data Analysis in R course at the University of Bayreuth in Fall Term 2022.
 baseurl: "/CI22" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-footer_content: "Copyright &copy; 2022 Kenneth Stiller & Felipe Torres Raposo."
+footer_content: "Copyright &copy; 2022 Kenneth Stiller"
 
 
 
