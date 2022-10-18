@@ -6,7 +6,7 @@ nav_order: 1
 
 
 
-This is the page of the *Data Analysis in R* course in Fall Term 2022 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@politics.ox.ac.uk)*. 
+This is the page of the *Data Analysis in R* course in Fall Term 2022 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@uni-bayreuth.de)*. 
 
 ## Class
 
