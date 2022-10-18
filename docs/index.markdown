@@ -10,18 +10,19 @@ This is the page of the *Data Analysis in R* course in Fall Term 2022 at the Uni
 
 ## Class
 
-**Monday:** 12pm - 2pm - S 6 (GWIIU1U1.09). **THIS WEEK ON TEAMS: [Click Here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yjg1YjU0M2EtNDliNi00MzlmLWE5NjItMjk1MTQyN2E3ZDI1%40thread.v2/0?context=%7b%22Tid%22%3a%22cc95de1b-97f5-4f93-b4ba-fe68b852cf91%22%2c%22Oid%22%3a%2292e8e132-902e-42da-9e86-1e4241143764%22%7d)**
+**Wednesday:** 2pm - 4pm - S 22 (GEOIIEG013). 
 
 ## Drop-In Sessions
 
-**Wednesday:** 4pm - 5 pm - U1.26 (GWII)  **THIS WEEK ON TEAMS: [Click Here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmZkYTM2OGYtYjhiMS00YzBkLTk0OTktOWFiYmY1NmExMDFl%40thread.v2/0?context=%7b%22Tid%22%3a%22cc95de1b-97f5-4f93-b4ba-fe68b852cf91%22%2c%22Oid%22%3a%2292e8e132-902e-42da-9e86-1e4241143764%22%7d)**
-
+**Monday (tbc):** 
 
 ## Assessments
 
-• Collaboration during class (15%) 
+• Activity in class (10%)
 
-• Take-home exam (85% of final mark)
+• Activity in class (15%)
+
+• Take-home exam (75% of final mark)
 
 
 ## Syllabus
