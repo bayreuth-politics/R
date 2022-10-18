@@ -23,7 +23,7 @@ subtitle: University of Bayreuth
 email: kenneth.stiller@politics.ox.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Here you find course materials, notes and data for the Data Analysis in R course at the University of Bayreuth in Fall Term 2022.
-baseurl: "/CI22" # the subpath of your site, e.g. /blog
+baseurl: "/R" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
