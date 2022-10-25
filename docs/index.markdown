@@ -28,5 +28,5 @@ This is the page of the *Data Analysis in R* course in Fall Term 2022 at the Uni
 ## Syllabus
 
 
-<embed src="R_22_Syllabus_Bayreuth.pdf" width="800" height="650" 
+<embed src="Syllabus_Data_Analysis_in_R_Bayreuth_22.pdf" width="800" height="650" 
  type="application/pdf">
