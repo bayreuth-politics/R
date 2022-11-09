@@ -1,0 +1,194 @@
+"iso3c","country","year","region","income","electoral_fraud","proportional_rep","air_quality","fragile_state_index","educ_years1524_female","educ_years1524_male","govt_revenue","polity","freedomhouse_status","corruption_perceptions_index","human_devt_index","access_electricity","gdp_percapita","population","gdp"
+"AFG","Afghanistan",2014,"South Asia","Low income",1,0,68.28,107.9,2.07,5.16,NA,-1,"Not Free",12,0.479,89.5,610,32758020,58321801149.6039
+"AGO","Angola",2014,"Sub-Saharan Africa ","Lower middle income",0,1,80.13,87.9,5.85,6.02,35.327,-2,"Not Free",19,0.53100002,32,3748,26920466,168525688985.459
+"ALB","Albania",2014,"Europe & Central Asia","Upper middle income",0,1,68.47,61.9,11.53,11.02,26.288,9,"Partly Free",33,0.76200002,100,4419,2889104,30957701553.5959
+"AND","Andorra",2014,"Europe & Central Asia","High income",NA,NA,NA,NA,15.96,14.83,NA,NA,"Free",NA,0.85699999,100,NA,79223,NA
+"ARE","United Arab Emirates",2014,"Middle East & North Africa","High income",NA,NA,69.53,46.2,12.85,11.82,NA,-8,"Not Free",70,0.83600003,100,39034,9070867,581686509239.398
+"ARG","Argentina",2014,"Latin America & Caribbean ","Upper middle income",0,1,92.23,47.6,12.67,11.62,32.44,8,"Free",34,0.82599998,100,10323,42981515,807947089029.563
+"ARM","Armenia",2014,"Europe & Central Asia","Lower middle income",1,1,71.61,69.7,12.12,11.48,22.048,5,"Partly Free",37,0.741,100,3827,2906220,23165822343.6125
+"ATG","Antigua and Barbuda",2014,"Latin America & Caribbean ","High income",NA,NA,93.47,57.8,14.85,13.39,19.77,NA,"Free",NA,0.78399998,96.44,12363,98875,1930168594.44499
+"AUS","Australia",2014,"East Asia & Pacific","High income",0,1,96.15,24.3,14.93,14.55,34.093,10,"Free",80,0.93699998,100,54394,23460694,1018090222426.24
+"AUT","Austria",2014,"Europe & Central Asia","High income",0,1,64.63,25.8,12.23,11.8,50.015,10,"Free",72,0.89200002,100,47681,8541575,376876927646.277
+"AZE","Azerbaijan",2014,"Europe & Central Asia","Upper middle income",0,0,76.06,77.3,12.45,12.15,38.914,-7,"Not Free",29,0.75800002,100,6123,9535079,159379851638.987
+"BDI","Burundi",2014,"Sub-Saharan Africa ","Low income",0,1,55.13,98,4.79,5.44,28.143,6,"Not Free",20,0.40599999,7,243,9891790,7944817041.22709
+"BEL","Belgium",2014,"Europe & Central Asia","High income",0,1,46.05,30.5,13.86,13.04,52.043,8,"Free",76,0.89499998,100,44670,11209057,463552368353.619
+"BEN","Benin",2014,"Sub-Saharan Africa ","Low income",0,1,64.06,78.8,4.21,6.42,17.185,7,"Free",39,0.48100001,34.1,834,10286712,20585039357.0999
+"BFA","Burkina Faso",2014,"Sub-Saharan Africa ","Low income",1,1,66.55,89.2,2.66,3.68,NA,0,"Partly Free",38,0.39899999,19.2,620,17585977,27007059164.5957
+"BGD","Bangladesh",2014,"South Asia","Lower middle income",0,0,26.27,91.8,6.86,7,10.92,1,"Partly Free",25,0.57499999,62.4,922,159405279,473918520089.175
+"BGR","Bulgaria",2014,"Europe & Central Asia","Upper middle income",0,1,66.17,55.4,11.65,11.32,33.653,9,"Free",43,0.792,100,7300,7223938,117766214600.546
+"BHR","Bahrain",2014,"Middle East & North Africa","High income",0,0,62.92,64.4,11.02,10.15,24.962,-10,"Not Free",49,0.82300001,100,22391,1336397,59359440966.6084
+"BHS","Bahamas",2014,"Latin America & Caribbean ","High income",0,0,94.2,51.5,13.6,12.62,16.929,NA,"Free",71,0.79000002,100,21355,382169,8523739867.52662
+"BIH","Bosnia and Herzegovina",2014,"Europe & Central Asia","Upper middle income",0,1,68.23,77.4,11.01,10.84,43.397,NA,"Partly Free",39,0.74699998,100,4980,3566002,37420895754.0962
+"BLR","Belarus",2014,"Europe & Central Asia","Upper middle income",1,0,69.05,75.6,12.94,12.46,37.148,-7,"Not Free",31,0.79799998,100,6665,9474511,170012610417.334
+"BLZ","Belize",2014,"Latin America & Caribbean ","Upper middle income",0,0,95.37,65.3,10.28,9.7,29.174,NA,"Free",NA,0.70599997,92.45,4441,351694,2831237854.60553
+"BOL","Bolivia",2014,"Latin America & Caribbean ","Lower middle income",0,1,87.17,78.1,10.5,10.71,39.893,7,"Partly Free",35,0.671,90.04,2317,10562159,66803831147.3381
+"BRA","Brazil",2014,"Latin America & Caribbean ","Upper middle income",0,1,91.03,62.7,9.44,8.08,32.602,8,"Free",43,0.75400001,99.65,11866,204213133,3138959326013.66
+"BRB","Barbados",2014,"Latin America & Caribbean ","High income",0,0,94.03,49.3,12.45,11.03,36.812,NA,"Free",74,0.79400003,100,15856,283385,4335105883.42385
+"BRN","Brunei",2014,"East Asia & Pacific","High income",NA,NA,87.97,63,15.49,15.09,37.664,NA,"Not Free",NA,0.86400002,100,33314,411704,31326263639.6957
+"BTN","Bhutan",2014,"South Asia","Lower middle income",0,0,50.96,78.7,4.14,7.38,33.628,5,"Partly Free",65,0.60399997,100,2500,776448,5719645280.13305
+"BWA","Botswana",2014,"Sub-Saharan Africa ","Upper middle income",0,0,90.5,62.8,10.29,8.26,38.358,8,"Free",63,0.69800001,56.48,7574,2168573,34512124133.6115
+"CAF","Central African Republic",2014,"Sub-Saharan Africa ","Low income",0,0,65.76,111.9,4.82,6.66,15.707,0,"Not Free",24,0.347,12.33,303,4515392,2717299201.42758
+"CAN","Canada",2014,"North America","High income",0,0,89.59,25.6,14.47,14.19,38.565,10,"Free",81,0.91900003,100,50067,35544564,1526509617960.04
+"CHE","Switzerland",2014,"Europe & Central Asia","High income",0,1,70.29,22.3,11.72,11.36,NA,10,"Free",86,0.93800002,100,75800,8188649,464136199660.449
+"CHL","Chile",2014,"Latin America & Caribbean ","High income",0,0,86.63,41.5,13.32,12.54,22.258,10,"Free",73,0.84500003,100,14702,17613798,391492244125.789
+"CHN","China",2014,"East Asia & Pacific","Upper middle income",0,NA,24.42,76.5,11.12,11.05,28.057,-7,"Not Free",36,0.73400003,100,6108,1364270000,17406241622917.7
+"CIV","Cote d'Ivoire",2014,"Sub-Saharan Africa ","Lower middle income",0,0,77.2,100.1,4.63,6.47,18.862,4,"Partly Free",32,0.46599999,61.9,1385,22531350,68822794330.2418
+"CMR","Cameroon",2014,"Sub-Saharan Africa ","Lower middle income",1,1,75.84,94.3,7.81,8.54,18.109,-4,"Not Free",27,0.514,56.8,1294,22239904,64574399632.3341
+"COD","Congo, Democratic Republic",2014,"Sub-Saharan Africa ","Low income",0,1,53.91,109.7,6.43,7.67,17.667,5,"Not Free",22,0.42500001,13.5,379,73722860,53502899889.734
+"COG","Congo",2014,"Sub-Saharan Africa ","Lower middle income",0,0,81.47,90.8,8.53,8.83,NA,-4,"Not Free",23,0.58999997,43.16,2923,4871101,26976427946.1947
+"COL","Colombia",2014,"Latin America & Caribbean ","Upper middle income",0,1,91.27,82.5,11,9.96,27.672,7,"Partly Free",37,0.72399998,97.79,7292,47791911,607720381850.595
+"COM","Comoros",2014,"Sub-Saharan Africa ","Low income",0,0,85.22,83.3,7.02,7.24,23.884,9,"Partly Free",26,0.498,73.76,780,759385,1087506713.99995
+"CPV","Cape Verde",2014,"Sub-Saharan Africa ","Lower middle income",0,1,82.05,73.5,8.29,8.01,22.875,10,"Free",57,0.64600003,90.19,3370,526437,3120823309.85262
+"CRI","Costa Rica",2014,"Latin America & Caribbean ","Upper middle income",0,1,93.76,46.8,10.91,9.8,13.294,10,"Free",54,0.77499998,99.36,9077,4757575,68471220380.0828
+"CUB","Cuba",2014,"Latin America & Caribbean ","Upper middle income",0,1,95.56,67.4,13.16,12.43,NA,-7,"Not Free",46,0.773,100,6183,11439767,NA
+"CYP","Cyprus (1975-)",2014,"Europe & Central Asia","High income",0,1,77.36,66.2,14.07,13.22,39.291,10,"Free",63,0.85399997,100,26978,1152309,25328858111.7398
+"CZE","Czech Republic",2014,"Europe & Central Asia","High income",0,1,53.77,37.4,12.81,12.48,40.311,9,"Free",51,0.875,100,20344,10525347,306494069347.29
+"DEU","Germany",2014,"Europe & Central Asia","High income",0,1,62.16,28.1,13.31,12.53,44.692,10,"Free",79,0.92400002,100,44875,80982500,3516076369519.48
+"DJI","Djibouti",2014,"Middle East & North Africa","Lower middle income",0,1,76.22,88,5.84,9.05,30.942,3,"Not Free",34,0.47,46.73,1508,912164,2733701719.03921
+"DMA","Dominica",2014,"Latin America & Caribbean ","Upper middle income",NA,NA,92.54,NA,13.58,12.2,27.572,NA,"Free",58,0.72399998,100,7031,72778,754932315.931655
+"DNK","Denmark",2014,"Europe & Central Asia","High income",0,1,84.04,21.4,13.41,12.82,56.749,10,"Free",92,0.92299998,100,59471,5643475,254419998057.199
+"DOM","Dominican Republic",2014,"Latin America & Caribbean ","Upper middle income",0,1,93.14,71.2,11.03,9.59,14.765,8,"Free",32,0.71799999,98.47,6194,10405844,131520414964.851
+"DZA","Algeria",2014,"Middle East & North Africa","Upper middle income",1,1,88.44,79.6,10.12,9.28,33.351,2,"Not Free",36,0.74299997,100,4676,39113313,527362178701.876
+"ECU","Ecuador",2014,"Latin America & Caribbean ","Upper middle income",0,1,90.91,75.9,10.91,10.12,38.157,5,"Partly Free",33,0.73900002,98.98,5439,15903112,173706969723.433
+"EGY","Egypt",2014,"Middle East & North Africa","Lower middle income",1,0,47.26,89.9,9.79,10.5,NA,-4,"Not Free",37,0.68800002,99.8,2608,91812566,907089730673.907
+"ERI","Eritrea",2014,"Sub-Saharan Africa ","Low income",NA,NA,75.77,96.9,5.68,6.8,NA,-7,"Not Free",18,0.41800001,45.83,NA,NA,NA
+"ESP","Spain",2014,"Europe & Central Asia","High income",0,1,89.46,40.9,13.29,12.43,38.903,10,"Free",60,0.88200003,100,29494,46480882,1449893314942.59
+"EST","Estonia",2014,"Europe & Central Asia","High income",0,1,92.94,43.7,11.38,10.47,39.128,9,"Free",69,0.86299998,100,17353,1314545,35436509560.7266
+"ETH","Ethiopia (1993-)",2014,"Sub-Saharan Africa ","Low income",1,0,67.56,97.5,5.67,6.43,14.901,-3,"Not Free",33,0.44100001,27.2,453,97366774,138701596949.612
+"FIN","Finland",2014,"Europe & Central Asia","High income",0,1,94.1,17.7,13.18,12.39,54.896,10,"Free",89,0.89300001,100,45239,5461512,213094747666.23
+"FJI","Fiji",2014,"East Asia & Pacific","Upper middle income",0,NA,92.28,76.7,12.36,11.71,27.952,2,"Partly Free",NA,0.73400003,100,4150,885806,7400267903.69769
+"FRA","France (1963-)",2014,"Europe & Central Asia","High income",0,0,78.78,33.7,13.2,12.4,53.356,9,"Free",69,0.89399999,100,41431,66331957,2489533142436.28
+"GAB","Gabon",2014,"Sub-Saharan Africa ","Upper middle income",1,0,90.75,71.2,9.85,9.46,29.735,3,"Not Free",37,0.69400001,89.49,9508,1875713,31284003482.1141
+"GBR","United Kingdom",2014,"Europe & Central Asia","High income",0,0,83.67,33.4,14.39,13.83,35.423,10,"Free",78,0.90799999,100,40621,64613160,2454210261787.93
+"GEO","Georgia",2014,"Europe & Central Asia","Lower middle income",0,1,78.12,79.2,13.35,12.81,28.007,7,"Partly Free",52,0.76800001,100,3852,3727000,32608105117.4224
+"GHA","Ghana",2014,"Sub-Saharan Africa ","Lower middle income",0,0,69.55,71.8,7.94,8.43,18.416,8,"Free",48,0.57499999,78.3,1660,26962563,104307130433.746
+"GIN","Guinea",2014,"Sub-Saharan Africa ","Low income",NA,NA,65.8,104.9,3.23,5.59,22.313,4,"Partly Free",25,0.414,27.64,445,11805509,14302582558.1215
+"GMB","Gambia",2014,"Sub-Saharan Africa ","Low income",0,0,64.71,85.4,5.11,6.75,22.2,-5,"Not Free",29,0.44999999,47.21,532,1917852,2999373245.35763
+"GNB","Guinea-Bissau",2014,"Sub-Saharan Africa ","Low income",1,1,65.25,99.9,3.21,4.85,22.086,6,"Partly Free",19,0.421,17.2,544,1725744,2406317909.09483
+"GNQ","Equatorial Guinea",2014,"Sub-Saharan Africa ","Upper middle income",1,1,85.29,84.8,7.66,8.19,24.317,-6,"Not Free",NA,0.58200002,67.56,15851,1129424,35231210754.5856
+"GRC","Greece",2014,"Europe & Central Asia","High income",0,1,77.7,52.6,13.59,12.8,46.765,10,"Free",43,0.86500001,100,22479,10892413,261299579486.283
+"GRD","Grenada",2014,"Latin America & Caribbean ","Upper middle income",0,0,91.95,63.5,12.45,11.03,24.492,NA,"Free",NA,0.75099999,90.81,7934,106360,1280574279.73681
+"GTM","Guatemala",2014,"Latin America & Caribbean ","Lower middle income",1,1,83.98,80.4,7.44,7.76,11.502,8,"Partly Free",32,0.63700002,85.49,3008,15923559,113812511011.415
+"GUY","Guyana",2014,"Latin America & Caribbean ","Upper middle income",0,1,95.89,70.5,11.33,10.42,25.785,6,"Free",30,0.63800001,86.9,3574,763393,5260900751.00512
+"HND","Honduras",2014,"Latin America & Caribbean ","Lower middle income",0,1,88.17,78.1,9.1,8.15,24.12,7,"Partly Free",29,0.62300003,88.65,2059,8809216,37274656482.8466
+"HRV","Croatia",2014,"Europe & Central Asia","Upper middle income",0,1,69.62,51,10.97,10.36,42.922,9,"Free",48,0.82300001,100,13518,4238389,85344598041.9172
+"HTI","Haiti",2014,"Latin America & Caribbean ","Low income",0,0,76.3,104.5,7.61,7.59,18.938,0,"Partly Free",19,0.49000001,37.94,729,10572466,17474751212.4895
+"HUN","Hungary",2014,"Europe & Central Asia","High income",0,1,52.13,49.1,13.13,12.6,47.217,10,"Free",54,0.83399999,100,14042,9866468,236956059157.09
+"IDN","Indonesia",2014,"East Asia & Pacific","Lower middle income",0,1,79.33,75,10.22,9.7,16.461,9,"Partly Free",34,0.68599999,97.01,3693,255131116,2552099267504.09
+"IND","India",2014,"South Asia","Lower middle income",0,1,30.38,79.3,7.15,8.86,19.203,9,"Free",38,0.61500001,79.17,1647,1293859294,6973777881613.81
+"IRL","Ireland",2014,"Europe & Central Asia","High income",0,1,94.04,24.6,14.44,13.6,34.117,10,"Free",74,0.92000002,100,51966,4617225,225715901913.92
+"IRN","Iran",2014,"Middle East & North Africa","Upper middle income",0,0,73.35,87.1,11.71,11.86,14.56,-7,"Not Free",27,0.77399999,99.44,5916,78411092,1289919026344.15
+"IRQ","Iraq",2014,"Middle East & North Africa","Upper middle income",0,1,48.71,104.4,7.57,8.43,NA,6,"Not Free",16,0.64899999,98.79,5203,35006080,514471775787.024
+"ISL","Iceland",2014,"Europe & Central Asia","High income",0,1,97.43,23.4,11.85,11.32,45.215,NA,"Free",79,0.91900003,100,44478,327386,13561781179.7473
+"ISR","Israel",2014,"Middle East & North Africa","High income",0,1,65.51,NA,15.02,14.24,36.694,6,"Free",60,0.898,100,32954,8215700,261363014023.971
+"ITA","Italy",2014,"Europe & Central Asia","High income",0,1,74.54,43.2,13.84,13.08,47.893,10,"Free",43,0.88099998,100,33616,60789140,2063538629659.84
+"JAM","Jamaica",2014,"Latin America & Caribbean ","Upper middle income",0,0,91.97,64.6,13.17,12.17,26.193,9,"Free",38,0.72899997,97.1,4716,2862087,23048535597.5033
+"JOR","Jordan",2014,"Middle East & North Africa","Lower middle income",0,NA,67.69,76.9,12.63,12.22,27.876,-3,"Not Free",49,0.741,100,3349,8809306,75955215849.7031
+"JPN","Japan",2014,"East Asia & Pacific","High income",0,1,74.65,36,15.33,14.63,32.654,10,"Free",76,0.90200001,100,46466,127276000,4750302872767.87
+"KAZ","Kazakhstan",2014,"Europe & Central Asia","Upper middle income",0,1,88.24,68.3,12.91,12.26,23.742,-6,"Not Free",29,0.79299998,100,10645,17289224,407784613352.672
+"KEN","Kenya",2014,"Sub-Saharan Africa ","Lower middle income",1,0,79.6,97.3,9.1,8.93,19.777,9,"Partly Free",25,0.55000001,36,1076,46024250,126705999506.456
+"KGZ","Kyrgyzstan",2014,"Europe & Central Asia","Lower middle income",1,1,82.63,82.2,12.84,12.27,35.333,7,"Partly Free",27,0.662,99.8,1004,5835500,18566472841.7351
+"KHM","Cambodia",2014,"East Asia & Pacific","Lower middle income",0,1,67.32,87.9,6.82,7.39,NA,2,"Not Free",21,0.55800003,56.1,973,15270790,47710823823.1319
+"KIR","Kiribati",2014,"East Asia & Pacific","Lower middle income",NA,NA,90.76,NA,10.73,9.59,NA,NA,"Free",NA,0.58600003,48.08,1589,110458,203507397.5077
+"KNA","St Kitts and Nevis",2014,"Latin America & Caribbean ","High income",NA,NA,NA,NA,NA,NA,NA,NA,"Free",NA,0.76200002,100,15030,53739,1261953602.36549
+"KOR","Korea, South",2014,"East Asia & Pacific","High income",0,1,41.43,36.3,14.35,13.82,21.197,8,"Free",55,0.89899999,100,24324,50746659,1696242071623.01
+"KWT","Kuwait",2014,"Middle East & North Africa","High income",0,0,40.21,57.5,12.31,11.67,71.411,-7,"Partly Free",44,0.79900002,100,36259,3782450,267917846910.193
+"LAO","Laos",2014,"East Asia & Pacific","Lower middle income",NA,0,28,84.4,6.82,7.3,23.239,-7,"Not Free",25,0.58200002,78.09,1471,6576397,33758627417.2882
+"LBN","Lebanon",2014,"Middle East & North Africa","Upper middle income",0,0,57.63,88.1,11.55,10.5,21.81,6,"Partly Free",27,0.76300001,100,7262,5603279,75597677265.4621
+"LBR","Liberia",2014,"Sub-Saharan Africa ","Low income",0,0,67.09,97.3,4.98,6.34,30.319,6,"Partly Free",37,0.42699999,9.14,377,4390737,3533313381.37627
+"LBY","Libya",2014,"Middle East & North Africa","Upper middle income",NA,NA,82.82,95.3,7.54,9.47,49.721,0,"Not Free",18,0.71899998,98.45,NA,6204108,NA
+"LCA","St Lucia",2014,"Latin America & Caribbean ","Upper middle income",0,0,NA,NA,12.2,11.19,25.679,NA,"Free",71,0.73500001,98.16,6984,176421,1856366438.93792
+"LIE","Liechtenstein",2014,"Europe & Central Asia","High income",NA,NA,NA,NA,NA,NA,NA,NA,"Free",NA,0.91100001,100,NA,37127,NA
+"LKA","Sri Lanka",2014,"South Asia","Lower middle income",0,1,74.3,90.7,12.06,11.24,11.529,3,"Partly Free",38,0.764,92.19,3507,20771000,221219222249.921
+"LSO","Lesotho",2014,"Sub-Saharan Africa ","Lower middle income",0,1,85.72,79.9,10.33,8.25,52.101,8,"Free",49,0.495,27.8,1316,2145785,5716962258.16907
+"LTU","Lithuania",2014,"Europe & Central Asia","High income",0,1,78.71,43,12.03,11.44,33.343,10,"Free",58,0.84600002,100,14933,2932367,76978662855.7765
+"LUX","Luxembourg",2014,"Europe & Central Asia","High income",0,1,68.87,22.1,12.57,11.82,43.776,10,"Free",82,0.89600003,100,107353,556319,52199393963.2532
+"LVA","Latvia",2014,"Europe & Central Asia","High income",0,1,87.84,48.5,12.51,11.62,36.121,8,"Free",55,0.82800001,100,13817,1993782,44392473474.9168
+"MAR","Morocco",2014,"Middle East & North Africa","Lower middle income",0,1,89.47,74.6,5.95,7.13,28.077,-4,"Partly Free",39,0.64499998,91.6,3110,34318082,246294874517.647
+"MCO","Monaco",2014,"Europe & Central Asia","High income",NA,NA,NA,NA,NA,NA,NA,NA,"Free",NA,NA,100,NA,38132,NA
+"MDA","Moldova",2014,"Europe & Central Asia","Lower middle income",0,1,63.47,73,13.17,12.01,37.89,9,"Partly Free",35,0.70099998,100,1987,3556397,16938339607.2362
+"MDG","Madagascar",2014,"Sub-Saharan Africa ","Low income",0,1,71.67,83.6,6.14,5.77,12.43,6,"Partly Free",28,0.51099998,16.82,409,23589801,32365701438.7179
+"MDV","Maldives",2014,"South Asia","Upper middle income",0,0,97.18,74.3,8.88,8.48,31.604,NA,"Partly Free",NA,0.70099998,100,7165,401000,4771633126.29453
+"MEX","Mexico",2014,"Latin America & Caribbean ","Upper middle income",0,1,78.73,71.9,11.11,10.66,23.347,8,"Partly Free",35,0.75800002,99.17,9493,124221600,2044570418348.38
+"MHL","Marshall Islands",2014,"East Asia & Pacific","Upper middle income",NA,NA,NA,NA,10.2,9.2,53.232,NA,"Free",NA,NA,90.02,3329,52898,193424305.446624
+"MKD","Macedonia",2014,"Europe & Central Asia","Upper middle income",0,1,59.26,64.5,12.14,11.7,27.519,9,"Partly Free",45,0.74599999,100,4920,2077495,25549829053.37
+"MLI","Mali",2014,"Sub-Saharan Africa ","Low income",0,0,64.05,92.9,2.35,3.67,17.081,5,"Partly Free",32,0.43799999,27.29,706,16962846,31638432393.3785
+"MLT","Malta",2014,"Middle East & North Africa","High income",0,1,94.8,40.9,11.17,10.55,39.487,NA,"Free",55,0.85299999,100,24081,427364,13821351147.0593
+"MMR","Myanmar",2014,"East Asia & Pacific","Lower middle income",NA,NA,43.78,94.7,8.17,7.65,21.942,-3,"Not Free",21,0.55199999,52,1266,51924182,247678976353.734
+"MNE","Montenegro",2014,"Europe & Central Asia","Upper middle income",NA,NA,72.26,54.2,12.37,12.13,43.511,9,"Free",42,0.80400002,100,7045,621810,9200647429.76758
+"MNG","Mongolia",2014,"East Asia & Pacific","Lower middle income",1,1,87.19,57,10.88,9.72,27.784,10,"Free",39,0.73299998,85.57,3902,2923896,33182264406.3282
+"MOZ","Mozambique",2014,"Sub-Saharan Africa ","Low income",0,1,72.18,86.9,4.81,4.69,31.801,5,"Partly Free",31,0.414,21.22,493,27212382,29384516058.2905
+"MRT","Mauritania",2014,"Sub-Saharan Africa ","Lower middle income",0,1,74.34,94.9,5.51,6.24,NA,-2,"Not Free",30,0.51300001,38.8,1326,4063920,14855206470.2334
+"MUS","Mauritius",2014,"Sub-Saharan Africa ","Upper middle income",0,0,95.57,45.2,11.18,10.65,20.629,10,"Free",54,0.77899998,99.17,9164,1260934,23019446833.8431
+"MWI","Malawi",2014,"Sub-Saharan Africa ","Low income",0,0,70.76,86.9,6.11,6.73,24.986,6,"Partly Free",33,0.47299999,11.9,484,17068838,18611301228.2862
+"MYS","Malaysia (1966-)",2014,"East Asia & Pacific","Upper middle income",0,0,80.42,65.9,12.55,11.97,23.659,5,"Partly Free",52,0.787,100,10399,30228017,731394213595.733
+"NAM","Namibia",2014,"Sub-Saharan Africa ","Upper middle income",0,1,88.44,70.8,9.8,8.63,34.012,6,"Free",49,0.63700002,49.56,5909,2370992,22834308593.7594
+"NER","Niger",2014,"Sub-Saharan Africa ","Low income",0,1,62.69,97.8,2.01,3.52,22.968,6,"Partly Free",35,0.35100001,14.31,385,19148219,17235968520.7962
+"NGA","Nigeria",2014,"Sub-Saharan Africa ","Lower middle income",1,0,70.42,102.5,8.07,9.17,10.522,4,"Partly Free",27,0.52499998,57.65,2563,176460502,1000866424115.25
+"NIC","Nicaragua",2014,"Latin America & Caribbean ","Lower middle income",0,1,89.38,79,9.24,7.93,23.525,9,"Partly Free",28,0.64200002,81.85,1813,6013997,28775956036.2401
+"NLD","Netherlands",2014,"Europe & Central Asia","High income",0,1,55.02,26.9,13.95,13.3,43.918,10,"Free",83,0.92299998,100,50497,16865008,770198630775.042
+"NOR","Norway",2014,"Europe & Central Asia","High income",0,1,94.99,20.9,14.38,14.01,53.578,10,"Free",86,0.94800001,100,89081,5137232,325118399319.471
+"NPL","Nepal",2014,"South Asia","Low income",0,1,30.23,90.5,5.8,7.84,20.376,6,"Partly Free",29,0.55500001,84.9,676,28323241,64185684029.7077
+"NRU","Nauru",2014,"East Asia & Pacific","Upper middle income",NA,NA,NA,NA,NA,NA,76.798,NA,"Free",NA,NA,99.21,9361,11853,148890823.420096
+"NZL","New Zealand",2014,"East Asia & Pacific","High income",0,1,96.09,22.6,14.87,14.14,33.862,10,"Free",91,0.91299999,100,36006,4509700,155443805581.826
+"OMN","Oman",2014,"Middle East & North Africa","High income",0,1,84.59,52,9.68,10.14,46.3,-8,"Not Free",45,0.79500002,100,17132,3960925,159556704409.813
+"PAK","Pakistan (1971-)",2014,"South Asia","Lower middle income",0,0,34.47,103,5.51,7.6,15.243,7,"Partly Free",29,0.54799998,97.53,1111,185546257,849101793880.401
+"PAN","Panama",2014,"Latin America & Caribbean ","Upper middle income",0,1,94.55,54.6,12.16,10.99,20.368,9,"Free",37,0.78500003,91.6,10229,3903986,77579377622.2821
+"PER","Peru",2014,"Latin America & Caribbean ","Upper middle income",0,1,82.43,72,11.48,11.33,22.274,9,"Free",38,0.73699999,92.92,5824,30973354,357599378478.891
+"PHL","Philippines",2014,"East Asia & Pacific","Lower middle income",0,1,83.97,86.2,11.35,10.27,18.939,8,"Partly Free",38,0.67900002,89.13,2506,100102249,659262996146.07
+"PLW","Palau",2014,"East Asia & Pacific","High income",NA,NA,NA,NA,NA,NA,43.555,NA,"Free",NA,0.78299999,99.81,9608,21094,280068582.792504
+"PNG","Papua New Guinea",2014,"East Asia & Pacific","Lower middle income",0,0,86.97,83.4,7.36,8.22,NA,5,"Partly Free",25,0.51499999,20.26,1716,7755785,20327000424.5066
+"POL","Poland",2014,"Europe & Central Asia","High income",0,1,50.91,39.8,13.56,12.82,38.679,10,"Free",61,0.852,100,14090,38011735,925441552087.749
+"PRK","Korea, North",2014,"East Asia & Pacific","Low income",NA,NA,NA,93.8,12.86,13.19,NA,-10,"Not Free",8,NA,32.37,NA,25116363,NA
+"PRT","Portugal",2014,"Europe & Central Asia","High income",0,1,92.96,29.7,11.17,10.22,44.601,10,"Free",63,0.84100002,100,21533,10401062,270673842796.877
+"PRY","Paraguay",2014,"Latin America & Caribbean ","Upper middle income",0,1,88.15,71.3,10.33,9.02,22.766,9,"Partly Free",24,0.69199997,99,3762,6552584,55707078172.8341
+"QAT","Qatar",2014,"Middle East & North Africa","High income",NA,NA,51.21,46.3,11.24,8.68,48.688,-10,"Not Free",69,0.85500002,100,67901,2374419,286972440751.688
+"ROU","Romania",2014,"Europe & Central Asia","Upper middle income",0,1,64.06,54.2,12.72,12.27,32.004,9,"Free",43,0.79799998,100,9159,19908979,391548948357.455
+"RUS","Russia",2014,"Europe & Central Asia","Upper middle income",NA,1,82.76,80,13.43,12.81,33.796,4,"Not Free",27,0.80500001,100,11494,143819666,3634746359912.49
+"RWA","Rwanda",2014,"Sub-Saharan Africa ","Low income",1,1,58.56,90.2,5.73,5.71,24.238,-3,"Not Free",49,0.493,19.8,673,11345357,18328688990.1362
+"SAU","Saudi Arabia",2014,"Middle East & North Africa","High income",NA,NA,70.9,71.6,10.87,11.72,36.822,-10,"Not Free",49,0.84500003,100,21183,30776722,1537557122142.68
+"SDN","Sudan (2012-)",2014,"Sub-Saharan Africa ","Lower middle income",NA,NA,78.12,110.8,6.83,7.68,12.021,-4,"Not Free",11,0.48800001,44.9,1837,37737913,158059014825.417
+"SEN","Senegal",2014,"Sub-Saharan Africa ","Low income",0,1,76.08,82.9,4.09,5.15,24.755,7,"Free",43,0.491,61,1020,14546111,32303346110.8873
+"SGP","Singapore",2014,"East Asia & Pacific","High income",0,0,88.2,34.4,13.99,13.08,21.456,-2,"Partly Free",84,0.92400002,100,51866,5469724,439248646563.804
+"SLB","Solomon Islands",2014,"East Asia & Pacific","Lower middle income",0,0,81.34,85.9,9.02,9.25,NA,8,"Partly Free",NA,0.514,35.11,1442,575504,1162929436.60713
+"SLE","Sierra Leone",2014,"Sub-Saharan Africa ","Low income",0,0,66.8,91.9,4.45,5.84,14.039,7,"Partly Free",31,0.43099999,13.1,563,7079162,11978947819.8084
+"SLV","El Salvador",2014,"Latin America & Caribbean ","Lower middle income",0,1,90.05,71.4,9.64,9.2,18.04,8,"Free",39,0.67799997,95.13,3668,6281189,48409559908.1291
+"SMR","San Marino",2014,"Europe & Central Asia","High income",NA,NA,NA,NA,NA,NA,22.46,NA,"Free",NA,NA,100,NA,32657,NA
+"SOM","Somalia",2014,"Sub-Saharan Africa ","Low income",NA,NA,65.96,114,2.43,3.94,NA,5,"Not Free",8,NA,19.06,NA,13513125,NA
+"SRB","Serbia",2014,"Europe & Central Asia","Upper middle income",NA,NA,60.58,73.8,11.55,11.16,39.698,8,"Free",41,0.77499998,100,5593,7130576,93501935676.3907
+"SSD","South Sudan",2014,"Sub-Saharan Africa ","Low income",NA,1,NA,114.5,1.73,2.95,27.158,0,"Not Free",15,0.421,4.53,820,11530971,22941561619.7032
+"STP","Sao Tome and Principe",2014,"Sub-Saharan Africa ","Lower middle income",NA,NA,86.97,73.7,7.07,7.32,25.15,NA,"Free",42,0.565,68.6,1237,191266,553403223.54588
+"SUR","Suriname",2014,"Latin America & Caribbean ","Upper middle income",0,1,93.68,68.4,9.94,9.25,24.1,5,"Free",36,0.72299999,100,8953,547928,8396008366.93445
+"SVK","Slovakia",2014,"Europe & Central Asia","High income",0,1,53.75,42.6,11.7,11.5,39.036,10,"Free",50,0.84200001,100,17972,5418649,147591119892.014
+"SVN","Slovenia",2014,"Europe & Central Asia","High income",0,1,66.45,31.5,12.65,11.79,41.503,10,"Free",58,0.88800001,100,23259,2061980,58683774179.5408
+"SWE","Sweden",2014,"Europe & Central Asia","High income",0,1,90.57,20.2,14.91,14.1,49.195,10,"Free",87,0.90899998,100,53562,9696110,428254217021.832
+"SWZ","Swaziland",2014,NA,NA,0,0,82.66,86.2,9.8,9.03,31.094,-9,"Not Free",43,0.54100001,65,4089,1295097,10469693394.6796
+"SYC","Seychelles",2014,"Sub-Saharan Africa ","High income",NA,NA,98.31,62.1,11.1,10.74,37.285,NA,"Partly Free",55,0.78100002,99.54,13380,91359,2303928636.12486
+"SYR","Syria",2014,"Middle East & North Africa","Lower middle income",0,0,52.25,107.8,8.97,9.69,NA,-9,"Not Free",20,0.55299997,95.84,NA,19203090,NA
+"TCD","Chad",2014,"Sub-Saharan Africa ","Low income",0,1,67.27,108.4,2.58,4.97,17.796,-2,"Not Free",22,0.39399999,8.02,967,13569438,28178973531.0897
+"TGO","Togo",2014,"Sub-Saharan Africa ","Low income",0,1,64.06,86.8,5.92,7.58,NA,-2,"Partly Free",29,0.484,45.7,531,7228915,9508482932.38876
+"THA","Thailand",2014,"East Asia & Pacific","Upper middle income",0,0,56.14,79.1,11.33,10.7,21.4,-3,"Not Free",38,0.73799998,100,5590,68416772,1016226095855.79
+"TJK","Tajikistan",2014,"Europe & Central Asia","Lower middle income",1,0,72.9,83.4,11.04,11.68,28.395,-3,"Not Free",23,0.625,99.99,893,8362745,21295734185.9823
+"TKM","Turkmenistan",2014,"Europe & Central Asia","Upper middle income",0,0,82.65,77.4,13.49,12.93,17.898,-8,"Not Free",17,0.68800002,100,6399,5466241,78344165398.0803
+"TLS","Timor-Leste",2014,"East Asia & Pacific","Lower middle income",1,1,78.91,90.5,8.52,8.52,54.725,8,"Partly Free",28,0.60299999,45.38,968,1212814,2559419348.20945
+"TON","Tonga",2014,"East Asia & Pacific","Upper middle income",NA,NA,91.61,NA,11.59,10.79,NA,NA,"Free",NA,0.71799999,95.25,3581,105782,532184494.268111
+"TTO","Trinidad and Tobago",2014,"Latin America & Caribbean ","High income",0,0,96.72,58.7,13.86,12.96,34.665,10,"Free",38,0.77899998,100,16863,1354493,42795964865.3593
+"TUN","Tunisia",2014,"Middle East & North Africa","Lower middle income",0,1,89.98,75.7,10.18,11.22,26.094,7,"Free",40,0.72299999,99.8,4265,11143908,119813125926.474
+"TUR","Turkey",2014,"Europe & Central Asia","Upper middle income",0,1,69.83,74.6,9.56,10.39,30.536,3,"Partly Free",45,0.764,100,13312,77030628,1725630917991.58
+"TUV","Tuvalu",2014,"East Asia & Pacific","Upper middle income",NA,NA,NA,NA,NA,NA,NA,NA,"Free",NA,NA,98.53,3283,10908,35623858.7892491
+"TWN","Taiwan",2014,NA,NA,0,1,50.77,NA,13.62,13.08,15.571,10,"Free",61,NA,NA,NA,NA,NA
+"TZA","Tanzania",2014,"Sub-Saharan Africa ","Low income",1,0,70.42,80.8,7.4,7.54,14.897,-1,"Partly Free",31,0.51899999,15.5,806,52234869,121819902871.073
+"UGA","Uganda",2014,"Sub-Saharan Africa ","Low income",1,0,63.68,97,7.14,7.62,13.19,-1,"Not Free",26,0.48800001,20.4,644,38833338,64714900231.0169
+"UKR","Ukraine",2014,"Europe & Central Asia","Lower middle income",0,1,75.37,76.3,13.53,13.05,40.314,4,"Partly Free",26,0.74800003,100,3124,45271947,354477604622.423
+"URY","Uruguay",2014,"Latin America & Caribbean ","High income",0,1,95.32,36.4,11.46,10.31,28.834,10,"Free",73,0.79400003,99.66,13857,3419546,67801270531.878
+"USA","United States",2014,"North America","High income",0,0,86.8,35.4,13.66,13.27,31.54,10,"Free",74,0.91799998,100,50783,318563456,16511459482557.4
+"UZB","Uzbekistan",2014,"Europe & Central Asia","Lower middle income",0,0,71.47,85.3,12.29,11.92,NA,-9,"Not Free",18,0.69700003,100,1744,30757700,165195479080.893
+"VCT","St Vincent and the Grenadines",2014,"Latin America & Caribbean ","Upper middle income",NA,NA,NA,NA,12.45,11.03,29.24,NA,"Free",62,0.72000003,99.02,6478,109357,1127166923.02343
+"VEN","Venezuela",2014,"Latin America & Caribbean ","Upper middle income",0,1,91.44,78.7,11.71,10.36,NA,4,"Partly Free",19,0.76899999,99.11,NA,30738378,NA
+"VNM","Vietnam",2014,"East Asia & Pacific","Lower middle income",0,0,45.7,72.4,10.07,9.76,NA,-7,"Not Free",31,0.67799997,99.2,1596,90728900,487233244248.599
+"VUT","Vanuatu",2014,"East Asia & Pacific","Lower middle income",0,0,82.89,NA,9.4,9.15,23.488,NA,"Free",NA,0.59799999,34.47,2910,258850,748682624.286249
+"WSM","Samoa",2014,"East Asia & Pacific","Upper middle income",0,0,88.88,68.2,14.29,12.77,37.998,NA,"Free",NA,0.70200002,97.9,3525,192290,1059741554.79038
+"YEM","Yemen",2014,"Middle East & North Africa","Lower middle income",0,0,73.99,108.2,3.63,7.97,NA,0,"Not Free",19,0.49900001,72.04,1101,26246327,98864822047.4775
+"ZAF","South Africa",2014,"Sub-Saharan Africa ","Upper middle income",0,1,87.55,67,11.51,10.65,28.159,9,"Free",44,0.66500002,86,7628,54146734.739162,674778040606.044
+"ZMB","Zambia",2014,"Sub-Saharan Africa ","Lower middle income",0,0,77.62,85.1,7.81,8.16,18.895,7,"Partly Free",38,0.57599998,27.9,1621,15620974,56743246685.4208
+"ZWE","Zimbabwe",2014,"Sub-Saharan Africa ","Low income",1,0,85.76,100,10.59,10.4,NA,4,"Not Free",21,0.50700003,32.3,933,15411675,29412836430.7457
