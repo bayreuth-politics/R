@@ -15,7 +15,7 @@ This is the page of the *Data Analysis in R* course in Fall Term 2022 at the Uni
 ## Drop-In Sessions
 
 
-**Monday:** 12pm - 2pm - U1.26 (GWII) 
+**Monday:** 12pm - 1pm - U1.26 (GWII) 
 
 
 ## Assessments
