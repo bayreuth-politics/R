@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-## If you have not attended today's class (16/11/22), make sure to send your homework from Week 1 & Week 2 to me ASAP!!!
+## If you have not attended today's class (16/11/22), make sure to send me your homework from Week 1 & Week 2 ASAP!!!
 
 
 This is the page of the *Data Analysis in R* course in Fall Term 2022 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@uni-bayreuth.de)*. 
