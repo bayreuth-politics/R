@@ -22,7 +22,7 @@ This is the page of the *Data Analysis in R* course in Fall Term 2022 at the Uni
 
 • Activity in class (10%)
 
-• Activity in class (15%)
+• Homework (15%)
 
 • Take-home exam (75% of final mark)
 
