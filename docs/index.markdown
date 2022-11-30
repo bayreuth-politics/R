@@ -9,6 +9,8 @@ nav_order: 1
 
 This is the page of the *Data Analysis in R* course in Fall Term 2022 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@uni-bayreuth.de)*. 
 
+## If you haven't attended this week's class (30/11/2022), please send me your homework from Week 4 ASAP.
+
 ## Class
 
 **Wednesday:** 2pm - 4pm - S 22 (GEOIIEG013). 
