@@ -13,3 +13,5 @@ nav_order: 3
 [Lecture 3: Sampling & Measurement](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/lectures/Data_Analysis_in_R_Bayreuth_22_Week3.pdf){: .btn .btn-blue .mr-3}
 
 [Lecture 4: Prediction](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/lectures/Data_Analysis_in_R_Bayreuth_22_Week4.pdf){: .btn .btn-blue .mr-3}
+
+[Lecture 5: Multivariate Regression](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/lectures/Data_Analysis_in_R_Bayreuth_22_Week5.pdf){: .btn .btn-blue .mr-3}
