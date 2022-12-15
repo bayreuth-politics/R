@@ -18,3 +18,4 @@ nav_order: 3
 
 [Lecture 6: Probability & Uncertainty](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/lectures/Data_Analysis_in_R_Bayreuth_22_Week6.pdf){: .btn .btn-blue .mr-3}
 
+[Lecture 7: Hypothesis Testing](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/lectures/Data_Analysis_in_R_Bayreuth_22_Week7.pdf){: .btn .btn-blue .mr-3}
