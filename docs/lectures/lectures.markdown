@@ -21,3 +21,5 @@ nav_order: 3
 [Lecture 7: Hypothesis Testing](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/lectures/Data_Analysis_in_R_Bayreuth_22_Week7.pdf){: .btn .btn-blue .mr-3}
 
 [Lecture 8: OLS Assumptions & Limitations](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/lectures/Data_Analysis_in_R_Bayreuth_22_Week8.pdf){: .btn .btn-blue .mr-3}
+
+[Lecture 9: Interactions & Non-Linearity](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/lectures/Data_Analysis_in_R_Bayreuth_22_Week9.pdf){: .btn .btn-blue .mr-3}
