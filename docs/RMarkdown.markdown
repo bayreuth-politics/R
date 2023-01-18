@@ -16,7 +16,7 @@ __R Markdown Example__
 Here you can find an example of R Markdown code and the corresponding output:
 
 
-[R Markdown Code]([https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/R/RMD_Example_code.Rmd](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/R/RMD_Example_code.Rmd?token=GHSAT0AAAAAAB5TZDX3CPLF6T7PRFC2KUQGY6HLXKQ){: .btn .btn-blue }
+[R Markdown Code](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/R/RMD_Example_code.Rmd?token=GHSAT0AAAAAAB5TZDX3CPLF6T7PRFC2KUQGY6HLXKQ){: .btn .btn-blue }
 [PDF Output](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/R/RMD_Example.pdf){: .btn .btn-red }
 
 
@@ -27,5 +27,5 @@ __Extended Markdown Example__
 
 Here you can find a somewhat extended markdown example file and the corresponding output:
 
-[Extended Markdown Code]([https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/R/R_Markdown_Example.Rmd](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/R/R_Markdown_Example.Rmd?token=GHSAT0AAAAAAB5TZDX357YEYTMANLFAOHWWY6HLX3Q){: .btn .btn-blue }
+[Extended Markdown Code](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/R/R_Markdown_Example.Rmd?token=GHSAT0AAAAAAB5TZDX357YEYTMANLFAOHWWY6HLX3Q){: .btn .btn-blue }
 [Extended PDF Output](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/R/R_Markdown_Example.pdf){: .btn .btn-red }
