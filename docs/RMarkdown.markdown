@@ -16,16 +16,10 @@ __R Markdown Example__
 Here you can find an example of R Markdown code and the corresponding output:
 
 
-[R Markdown Code](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/R/RMD_Example_code.Rmd?token=GHSAT0AAAAAAB5TZDX3CPLF6T7PRFC2KUQGY6HLXKQ){: .btn .btn-blue }
-[PDF Output](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/R/RMD_Example.pdf){: .btn .btn-red }
+[R Markdown Code](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/R/R_Markdown_Example.Rmd?token=GHSAT0AAAAAAB5TZDX357YEYTMANLFAOHWWY6HLX3Q){: .btn .btn-blue }
+[PDF Output](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/R/R_Markdown_Example.pdf){: .btn .btn-red }
 
 
 This R Markdown [Tutorial](https://rmarkdown.rstudio.com/lesson-1.html) and [Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf?_ga=2.156642171.1542584868.1612471345-118280016.1612471345) are also highly recommended!
 
 
-__Extended Markdown Example__
-
-Here you can find a somewhat extended markdown example file and the corresponding output:
-
-[Extended Markdown Code](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/R/R_Markdown_Example.Rmd?token=GHSAT0AAAAAAB5TZDX357YEYTMANLFAOHWWY6HLX3Q){: .btn .btn-blue }
-[Extended PDF Output](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/R/R_Markdown_Example.pdf){: .btn .btn-red }
