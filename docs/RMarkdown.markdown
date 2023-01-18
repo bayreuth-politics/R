@@ -2,7 +2,7 @@
 layout: page
 title: R Markdown
 permalink: /rmarkdown/
-nav_order: 1
+nav_order: 2
 ---
 
  Here you find useful resources and tutorials for both _R_ and _R Markdown_:
@@ -25,8 +25,7 @@ This R Markdown [Tutorial](https://rmarkdown.rstudio.com/lesson-1.html) and [Ref
 
 __R Script & Extended Markdown Example__
 
-Here you can find the script we used in this week's lab as well as the extended markdown example file.
+Here you can find a  markdown example file and the corresponding output:
 
-[Lab 1 - R Script](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/R/R_Introduction.R){: .btn .btn-green }
 [Extended Markdown Code](https://raw.githubusercontent.com/bayreuth-politics/CI22/gh-pages/docs/R/R_Markdown_Example.Rmd){: .btn .btn-blue }
 [Extended PDF Output](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/R/R_Markdown_Example.pdf){: .btn .btn-red }
