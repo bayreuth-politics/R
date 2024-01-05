@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data Analysis in R Fall 2022
+title: Data Analysis in R Winter 23/24
 subtitle: University of Bayreuth
-email: kenneth.stiller@politics.ox.ac.uk
+email: kenneth.stiller@uni-bayreuth.de
 description: >- # this means to ignore newlines until "baseurl:"
   Here you find course materials, notes and data for the Data Analysis in R course at the University of Bayreuth in Fall Term 2022.
 baseurl: "/R" # the subpath of your site, e.g. /blog
