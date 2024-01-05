@@ -34,3 +34,9 @@ We will take the time to get accustomed to RStudio during our seminar. At this p
 
 Note that there also is a glossary that explains frequent and useful terms. You may want to have a look at this or simply use this as a first help whenever you encounter a new term/concept you're not sure about.
 
+________
+
+Lastly, please fill in this brief form, so we can adjust the course to your needs and make the most of it.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpAOlakgKAd9lGiqfVZIV-3Uk8x3C8x6DgQ3q1YJc5rg9H1Q/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
