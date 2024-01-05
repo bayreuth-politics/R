@@ -7,7 +7,7 @@ nav_order: 1
 
 
 
-This is the page of the *Data Analysis in R* course in Winter Term 2023/23 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@uni-bayreuth.de)*. 
+This is the page of the *Data Analysis in R* course in Winter Term 2023/24 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@uni-bayreuth.de)*. 
 
 ________
 
