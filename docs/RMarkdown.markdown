@@ -16,7 +16,7 @@ __R Markdown Example__
 Here you can find an example of R Markdown code and the corresponding output:
 
 
-[R Markdown Code](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/RMD_Example_code.Rmd){: .btn .btn-blue }
+[R Markdown Code](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/R_Markdown_Example.Rmd){: .btn .btn-blue }
 [PDF Output](https://github.com/bayreuth-politics/CI22/raw/gh-pages/docs/R/R_Markdown_Example.pdf){: .btn .btn-red }
 
 
