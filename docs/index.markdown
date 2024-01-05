@@ -9,9 +9,14 @@ nav_order: 1
 
 This is the page of the *Data Analysis in R* course in Winter Term 2023/23 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@uni-bayreuth.de)*. 
 
+________
+
+
 ## Date & Time
 
 **12 Jan + 13 Jan:** 8am - 4pm - S 54 (RWIIEG0.58). 
+
+________
 
 
 ## Assessments
@@ -19,6 +24,9 @@ This is the page of the *Data Analysis in R* course in Winter Term 2023/23 at th
 • Activity in class (15%)
 
 • Take-home exam (85% of final mark)
+
+________
+
 
 ## Preparation
 
@@ -38,5 +46,5 @@ ________
 
 Lastly, please fill in this brief form, so we can adjust the course to your needs and make the most of it.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpAOlakgKAd9lGiqfVZIV-3Uk8x3C8x6DgQ3q1YJc5rg9H1Q/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpAOlakgKAd9lGiqfVZIV-3Uk8x3C8x6DgQ3q1YJc5rg9H1Q/viewform?embedded=true" width="900" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
