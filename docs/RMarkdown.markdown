@@ -2,7 +2,7 @@
 layout: page
 title: R Markdown
 permalink: /rmarkdown/
-nav_order: 2
+nav_order: 5
 ---
 
  Here you find useful resources and tutorials for _R Markdown_:
